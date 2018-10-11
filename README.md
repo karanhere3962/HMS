@@ -13,7 +13,7 @@ This program is built to make managing hotels an easy job. It can keep track of 
 
 Following setup is required to run the program:
  - DosBox or a 32 bit system
- - Borland C++ compiler
+ - Turbo C++ compiler
  - 256MB RAM
  - Intel Pentium processor
  
