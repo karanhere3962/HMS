@@ -19,4 +19,16 @@ Following setup is required to run the program:
  
 There are various header files (files with .h extension) along with a main file. Include these files in the include folder of you compiler.
 
+# Screenshots
+
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/1.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/2.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/3.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/4.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/5.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/6.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/7.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/8.png)
+![Alt text](https://github.com/karanhere3962/HMS/blob/master/screenshots/9.png)
+
 
